@@ -22,7 +22,7 @@ html, body {
 .btn {
     background-color: var(--black);
     color: var(--white);
-    padding: 8px 16px;
+    padding: 4px 20px;
     font-size: 16px;
     border: 1px solid var(--black);
     text-decoration: none;
